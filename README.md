@@ -2,7 +2,7 @@
 
 This repository accompanies the following publication:
 
--   **Oehlmann, C., Fan, J., Rihlmann, M., Lemme, H., Müller, J., Ruoff, B., Wennmann, J.T., Jehle, J.A. (submitted).**
+-   **Oehlmann, C., Fan, J., Rihlmann, M., Lemme, H., Müller, J., Ruoff, B., Wennmann, J.T., Jehle, J.A. (submitted to Virus Evolution).**
 
 ### Background
 
